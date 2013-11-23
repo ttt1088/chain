@@ -1,0 +1,6 @@
+打开文件
+OpenExecute
+操作
+OperationExecute
+查询数据
+CheckExecute
